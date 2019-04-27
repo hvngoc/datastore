@@ -1,6 +1,37 @@
 {
 	"review": true,
 	"data": {
-		
+		"featured" : [
+			{
+				"banner": "",
+				"link": []
+			},
+			{
+				"banner": "",
+				"link": []
+			},
+			{
+				"banner": "",
+				"link": []
+			}
+		],
+		"list" : [
+			{
+				"name":  "",
+				"link":[]
+			},
+			{
+				"name":  "",
+				"link":[]
+			},
+			{
+				"name":  "",
+				"link":[]
+			},
+			{
+				"name":  "",
+				"link":[]
+			}
+		]
 	}
 }
